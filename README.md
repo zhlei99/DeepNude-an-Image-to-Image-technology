@@ -1,13 +1,11 @@
 # DeepNude-an-Image-to-Image-technology
-[中文版](README-ZH.md) | [English Version](README.md)
-
-GAN evolution graph 2020.
+[中文版](README-ZH.md) | [English Version](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
 
 ![](paper_images/GeneratingAdversarialNetworkMap2020.png)
 
 This repository contains the pix2pixHD algorithms(proposed by NVIDIA) of [DeepNude](DeepNude_software_itself), and more importantly, the general image generation theory and practice behind DeepNude.
 
-This resource includes the TensorFlow2 (Pytorch | PaddlePaddle) implementation of image generation models such as [pix2pix](Pix2Pix), [CycleGAN](CycleGAN), UGATIT, [DCGAN](DCGAN), SinGAN, [VAE](Variational_Autoencoder), ALAE, mGANprior and StarGAN-v2, which can be used to systematically learn to generate adversarial networks (GAN).
+This resource includes the TensorFlow2 (Pytorch | PaddlePaddle) implementation of image generation models such as [pix2pix](Pix2Pix), [CycleGAN](CycleGAN), UGATIT, [DCGAN](DCGAN), SinGAN, [VAE](Variational_Autoencoder), ALAE, mGANprior and StarGAN-v2, which can be used to systematically learn to Generating Adversarial Network (GAN).
 
 ---
 

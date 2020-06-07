@@ -1,7 +1,5 @@
 # DeepNude：一种由图像生成图像的技术
-[English Version](README.md) | [中文版](README-ZH.md) 
-
-生成对抗网络发展图谱2020.
+[English Version](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) | [中文版](README-ZH.md)
 
 ![](paper_images/GeneratingAdversarialNetworkMap2020-ZH.png)
 
