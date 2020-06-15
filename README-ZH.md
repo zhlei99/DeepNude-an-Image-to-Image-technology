@@ -266,6 +266,15 @@ SinGAN 包含一个全卷积金字塔 GAN，金字塔的每一层负责学习不
 ## DeepFakes (DeepNude的升级版)
 > DeepFakes可以看做是DeepNude的升级版，它包含使用深度学习模型生成一系列可以以假乱真的东西技术，例如假的图像、假的音频和假的视频。
 
+### [MyVoiceYourFace](https://www.myvoiceyourface.com/)
+> MyVoiceYourFace 可以帮助你创建 Deepfake 视频，从一个静止的图片为上传的视频换脸生成假视频。它可以保留音频并模仿原视频的表情瞬间。你需要做的只是上传视频和想要替换的人脸图片。 [相关论文 First Order Motion Model for Image Animation](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+
+说话者视频 + 任何人脸A = 合成的人脸A的说话视频
+
+![](paper_images/myvoiceyourface.png)
+
+[点击这里在线尝试 MyVoiceYourFace！](https://www.myvoiceyourface.com/)
+
 ### 基于GANs的真实感语音驱动人脸动画
 
 一张照片 + 一段音频 = 合成视频

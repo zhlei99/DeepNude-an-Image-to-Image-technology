@@ -8,7 +8,7 @@
 |Title|Content|Date|
 |-|-|-|
 |[Startups are racing to commercialize DeepFakes’s powerful, internet-breaking AI](https://www.fastcompany.com/90337767/deepfakes-started-a-war-on-whats-real-these-startups-are-racing-to-commercialize-it)|[中文版](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496345&idx=2&sn=a6bcfa575f992d84a29bf3f90478db03&scene=21#wechat_redirect)|20190504|
-
+|[HOW TO CREATE DEEP FAKE VIDEOS FROM ANY IMAGE FREE?](https://www.ilovefreesoftware.com/07/webware/how-to-create-deep-fake-videos-from-any-image-free.html)|[中文版](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650789958&idx=3&sn=2b806df7adc8110add648c6acbd15f32&chksm=871a1c38b06d952eae1515382dd22cf6cfa2d09a1c6e349dc511262641b97d87bb5d89c2849e)|20200615|
 
 ## DeepFakes resources
 
