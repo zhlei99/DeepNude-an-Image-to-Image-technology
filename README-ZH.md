@@ -89,6 +89,9 @@
 
 [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) 是伯克利大学研究提出的使用条件对抗网络作为图像到图像转换问题的通用解决方案。
 
+<details>
+<summary>查看更多论文研究（点击左侧黑色箭头展开）</summary>
+
 ### 2. Pix2PixHD
 > DeepNude主要使用此图像到图像（Pix2PixHD）技术。
 
@@ -215,6 +218,8 @@ SinGAN 包含一个全卷积金字塔 GAN，金字塔的每一层负责学习不
 ![](paper_images/2020_Clova_StarGAN_v2_example.jpg)
 
 一个好的图像到图像转换模型应该学习不同视觉域之间的映射，同时满足以下特性：1）生成图像的多样性和2）跨多个域的可伸缩性。现有的方法解决了这两个问题中的任何一个，对所有域都具有有限的多样性或多个模型。我们提出了StarGAN v2，这是一个可以同时解决这两个问题并在基线上显示出显著改进的结果的单一框架。
+
+</details>
 
 ---
 

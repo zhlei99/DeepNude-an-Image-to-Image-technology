@@ -90,6 +90,9 @@ This section describes DeepNude-related AI/Deep Learning theory (especially comp
 
 [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) is a general solution for the use of conditional confrontation networks as an image-to-image conversion problem proposed by the University of Berkeley.
 
+<details>
+<summary>View more paper studies (Click the black arrow on the left to expand)</summary>
+
 ### 2. Pix2PixHD
 > DeepNude mainly uses this Image-to-Image(Pix2PixHD) technology.
 
@@ -215,6 +218,8 @@ Despite the success of Generative Adversarial Networks (GANs) in image synthesis
 ![](paper_images/2020_Clova_StarGAN_v2_example.jpg)
 
 A good image-to-image translation model should learn a mapping between different visual domains while satisfying the following properties: 1) diversity of generated images and 2) scalability over multiple domains. Existing methods address either of the issues, having limited diversity or multiple models for all domains. We propose StarGAN v2, a single framework that tackles both and shows significantly improved results over the baselines.
+
+</details>
 
 ---
 
