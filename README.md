@@ -315,3 +315,10 @@ We propose a temporal GAN capable of producing animated faces using only a still
 ## Future
 
 [Click read more...](Future)
+
+---
+
+## Support
+> Welcome to click the following ads to support this project, thank you!
+
+<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"> <img src ="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt ="GitAds" /> </a>

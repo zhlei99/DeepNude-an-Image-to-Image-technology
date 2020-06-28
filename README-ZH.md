@@ -319,3 +319,10 @@ SinGAN 包含一个全卷积金字塔 GAN，金字塔的每一层负责学习不
 ## 展望未来
 
 [点击阅读](Future)
+
+---
+
+## 支持本项目
+> 您对下面广告的每一次点击都是对本项目的大力支持，谢谢！
+
+<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"> <img src ="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt ="GitAds" /> </a>
