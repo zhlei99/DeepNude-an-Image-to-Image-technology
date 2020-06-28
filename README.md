@@ -38,7 +38,12 @@ This section provides a fake image generation demo that you can use as you wish.
 
 ## Image-to-Image Demo
 
-This section provides a demo of Image-to-Image Demo: Black and white stick figures to colorful cats, shoes, handbags. DeepNude software mainly uses Image-to-Image technology, which theoretically converts the images you enter into any image you want. You can experience Image-to-Image technology in your browser by clicking Image-to-Image Demo below.
+This section provides a demo of Image-to-Image Demo: Black and white stick figures to colorful faces, cats, shoes, handbags. DeepNude software mainly uses Image-to-Image technology, which theoretically converts the images you enter into any image you want. You can experience Image-to-Image technology in your browser by clicking Image-to-Image Demo below.
+
+[Try Image-to-faces Demo](http://www.geometrylearning.com:3000/index_EN_621.html)
+
+![](paper_images/2020_DeepFaceDrawing.png)
+
 
 [Try Image-to-Image Demo](https://affinelayer.com/pixsrv/)
 
@@ -218,6 +223,20 @@ Despite the success of Generative Adversarial Networks (GANs) in image synthesis
 ![](paper_images/2020_Clova_StarGAN_v2_example.jpg)
 
 A good image-to-image translation model should learn a mapping between different visual domains while satisfying the following properties: 1) diversity of generated images and 2) scalability over multiple domains. Existing methods address either of the issues, having limited diversity or multiple models for all domains. We propose StarGAN v2, a single framework that tackles both and shows significantly improved results over the baselines.
+
+### 11. DeepFaceDrawing
+
++ Institute of Computing Technology, Chinese Academy of Sciences 2020 paper [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://www.geometrylearning.com/paper/DeepFaceDrawing.pdf)
++ [DeepFaceDrawing homepage](http://www.geometrylearning.com/DeepFaceDrawing/)
++ [Video](http://www.geometrylearning.com/DeepFaceDrawing/video/DeepFaceDrawing-video.mp4)
++ code [DeepFaceDrawing-Jittor](https://github.com/IGLICT/DeepFaceDrawing-Jittor)
+
+**Result**
+
+![](paper_images/2020_Institute_of_Computing_Technology_DeepFaceDrawing.png)
+
+Recent deep image-to-image translation techniques allow fast generation of face images from freehand sketches. However, existing solutions tend to overfit to sketches, thus requiring professional sketches or even edge maps as input. To address this issue, our key idea is to implicitly model the shape space of plausible face images and synthesize a face image in this space to approximate an input sketch.
+
 
 </details>
 

@@ -39,7 +39,12 @@
 
 ## 由图像生成图像 Demo
 
-这一部分提供一个试玩的 Image-to-Image Demo：黑白简笔画到色彩丰富的猫、鞋、手袋。DeepNude 软件主要使用了Image-to-Image技术，该技术理论上可以把你输入的图片转换成任何你想要的图片。你可以点击下方的Image-to-Image Demo在浏览器中体验Image-to-Image技术。
+这一部分提供一个试玩的 Image-to-Image Demo：黑白简笔画到色彩丰富的人脸、猫、鞋、手袋。DeepNude 软件主要使用了Image-to-Image技术，该技术理论上可以把你输入的图片转换成任何你想要的图片。你可以点击下方的Image-to-Image Demo在浏览器中体验Image-to-Image技术。
+
+[尝试从草图深度生成人脸图像 Demo](http://www.geometrylearning.com:3000/index_621.html)
+
+![](paper_images/2020_DeepFaceDrawing-ZH.png)
+
 
 [尝试图片生成图像 Demo](https://affinelayer.com/pixsrv/)
 
@@ -218,6 +223,19 @@ SinGAN 包含一个全卷积金字塔 GAN，金字塔的每一层负责学习不
 ![](paper_images/2020_Clova_StarGAN_v2_example.jpg)
 
 一个好的图像到图像转换模型应该学习不同视觉域之间的映射，同时满足以下特性：1）生成图像的多样性和2）跨多个域的可伸缩性。现有的方法解决了这两个问题中的任何一个，对所有域都具有有限的多样性或多个模型。我们提出了StarGAN v2，这是一个可以同时解决这两个问题并在基线上显示出显著改进的结果的单一框架。
+
+### 11. DeepFaceDrawing
+
++ 论文 Institute of Computing Technology, Chinese Academy of Sciences 2020 paper [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://www.geometrylearning.com/paper/DeepFaceDrawing.pdf)
++ 主页 [DeepFaceDrawing homepage](http://www.geometrylearning.com/DeepFaceDrawing/)
++ 视频 [Video](http://www.geometrylearning.com/DeepFaceDrawing/video/DeepFaceDrawing-video.mp4)
++ 代码 code [DeepFaceDrawing-Jittor](https://github.com/IGLICT/DeepFaceDrawing-Jittor)
+
+**Result**
+
+![](paper_images/2020_Institute_of_Computing_Technology_DeepFaceDrawing.png)
+
+基于该方法的智能人脸画板，不需要用户拥有专业的绘画技巧，就能够从粗糙甚至不完整的草图生成高质量的人脸图像，并且同时支持对面部细节的编辑与控制。该算法降低了人脸肖像绘制的门槛，同时也减轻专业画家的工作难度，简单实用。
 
 </details>
 
