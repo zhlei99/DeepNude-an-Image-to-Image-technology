@@ -22,6 +22,12 @@
 
 ---
 
+> 此存储库由以下工具赞助，您对下面广告的每一次点击和免费试用都是对本项目的大力支持，谢谢！
+
+<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"><img src="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt="GitAds"/></a>
+
+---
+
 ## 什么是 DeepNude?
 
 [DeepNude](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology/tree/master/DeepNude_software_itself)使用了一个稍微修改过的 [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) GAN 架构。pix2pixHD是由NVIDIA提出的一种通用的Image2Image技术。显然，DeepNude是人工智能技术的错误应用，但它使用的Image2Image技术对于在时尚，电影和视觉效果等其他领域工作的研究人员和开发人员非常有用。
@@ -319,10 +325,3 @@ SinGAN 包含一个全卷积金字塔 GAN，金字塔的每一层负责学习不
 ## 展望未来
 
 [点击阅读](Future)
-
----
-
-## 支持本项目
-> 您对下面广告的每一次点击都是对本项目的大力支持，谢谢！
-
-<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"> <img src ="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt ="GitAds" /> </a>

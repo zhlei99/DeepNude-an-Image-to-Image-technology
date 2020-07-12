@@ -22,6 +22,13 @@ This resource includes the TensorFlow2 (Pytorch | PaddlePaddle) implementation o
 
 ---
 
+> This repository is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+
+<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"><img src="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt="GitAds"/></a>
+
+
+---
+
 ## What is DeepNude?
 DeepNude uses a slightly modified version of the [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) GAN architecture, quoted from deepnude_official. pix2pixHD is a general-purpose Image2Image technology proposed by NVIDIA. Obviously, DeepNude is the wrong application of artificial intelligence technology, but it uses Image2Image technology for researchers and developers working in other fields such as fashion, film and visual effects.
 
@@ -315,10 +322,3 @@ We propose a temporal GAN capable of producing animated faces using only a still
 ## Future
 
 [Click read more...](Future)
-
----
-
-## Support
-> Welcome to click the following ads to support this project, thank you!
-
-<a href="https://tracking.gitads.io/?repo=DeepNude-an-Image-to-Image-technology"> <img src ="https://images.gitads.io/DeepNude-an-Image-to-Image-technology" alt ="GitAds" /> </a>
